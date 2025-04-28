@@ -1,0 +1,36 @@
+{
+    "exhibits": [
+        {
+            "description": "welcome",
+            "popularity": 90,
+            "rating": 5.0,
+            "title": "art"
+        },
+        {
+            "description": "brw",
+            "popularity": 34,
+            "rating": 3.0,
+            "title": "fiitbalk"
+        },
+        {
+            "description": "rshbv",
+            "popularity": 34,
+            "rating": 3.0,
+            "title": "dnvf"
+        },
+        {
+            "description": "rwjevweb",
+            "popularity": 34,
+            "rating": 3.0,
+            "title": "evbeivw"
+        }
+    ],
+    "guides": [
+        {
+            "guideName": "abdullahe",
+            "language": "urdu"
+        }
+    ],
+    "museumName": "National Museum",
+    "schedule": {}
+}

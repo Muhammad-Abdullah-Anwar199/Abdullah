@@ -1,0 +1,31 @@
+{
+    "memberships": [
+        {
+            "discount": 30.0,
+            "memberShipId": 4,
+            "type": "vip"
+        }
+    ],
+    "reviews": [
+        {
+            "comment": "abdullah",
+            "rating": 3.0,
+            "reviewCapacity": 9,
+            "userName": "usman"
+        }
+    ],
+    "tickets": [
+        {
+            "exhibit": {
+                "description": "welcome",
+                "popularity": 90,
+                "rating": 5.0,
+                "title": "art"
+            },
+            "expiryDate": "17 April 2025",
+            "isVIP": true,
+            "ticketId": 8
+        }
+    ],
+    "userName": "abdullah"
+}
